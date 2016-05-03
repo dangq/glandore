@@ -1,0 +1,6 @@
+{'Java': {'Java': 1, 'Big data': 0, 'Python': Decimal('0.01048951048951048951048951049'), 'Hadoop': 0, 'Map reduce': Decimal('0.003496503496503496503496503497'), 'C sharp': Decimal('0.03496503496503496503496503497')}, 
+'Big data': {'Java': 0, 'Big data': 1, 'Python': 0, 'Hadoop': 0, 'Map reduce': 0, 'C sharp': 0}, 
+'Python': {'Java': 0, 'Big data': 0, 'Python': 1, 'Hadoop': 0, 'Map reduce': 0, 'C sharp': Decimal('0.02702702702702702702702702703')}, 
+'Hadoop': {'Java': Decimal('1'), 'Big data': 0, 'Python': 0, 'Hadoop': 1, 'Map reduce': Decimal('1'), 'C sharp': 0}, 
+'Map reduce': {'Java': 0, 'Big data': 0, 'Python': 0, 'Hadoop': 0, 'Map reduce': 1, 'C sharp': 0}, 
+'C sharp': {'Java': 0, 'Big data': 0, 'Python': 0, 'Hadoop': 0, 'Map reduce': 0, 'C sharp': 1}}

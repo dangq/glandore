@@ -1,0 +1,6 @@
+Big data
+Hadoop
+Map reduce
+Java
+Python
+C sharp
